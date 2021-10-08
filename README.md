@@ -1,4 +1,5 @@
-Desenvolvedora Front-end
+## Desenvolvedora Front-end
+<br>
 <div align="center">
   <a href="www.github.com/amandamonteiro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandamonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
